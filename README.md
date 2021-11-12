@@ -2,7 +2,8 @@
 <h3 align="center">Turning my CANT'S to CAN's everyday </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit0703&label=Profile%20views&color=129e00&style=plastic" alt="harshit0703" /> </p>
-<img align="right" alt="Coding" width="400" src="![developer_outline I](https://user-images.githubusercontent.com/85011486/141463178-6bc13654-b926-4095-9547-7f829f06d7d4.jpg)">
+<img align="right" alt="Coding" width="400" src="![developer_outline I](https://user-images.githubusercontent.com/85011486/141463660-1231ca89-c333-4db3-a339-4462b62380b5.jpg)
+">
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other people in the same field
