@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other people in the same field
-- 🥅 2021 Goals: Establish a strong grip on DSA learn new frameworks
+- 🥅 2022 Goals: Establish a strong grip on DSA learn new frameworks
 - ⚡ Fun fact **I love to play video games and have a discussion around them**
 
 - 📫 How to reach me **guptas7577@gmail.com**
